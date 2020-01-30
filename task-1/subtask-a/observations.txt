@@ -1,0 +1,5 @@
+1. in outdoor, the style seems to hide some parts of the scene
+
+2. noisy images seem to display more of the style
+
+3. clutter image have more of the content images than the style
