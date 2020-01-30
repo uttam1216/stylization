@@ -1,2 +1,2 @@
 # stylization
-Project of DLfVR
+Project of Deep Learning for Visual Recognition
